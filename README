@@ -1,0 +1,11 @@
+libclicards is a simple C library that can be used for creating card games in
+the console. It contains functionality to handle arbitrary decks of standard
+playing cards along with NCurses based printing functions.
+
+The library is, and is intended to be, extremely small&simple, not very
+customizable other than by rewriting parts of it, while nonetheless quite
+powerful, usable, and versatile.
+
+No separate documentation is provided. The header file which you should be
+including if you intend to use the library is well commented, and there are
+illustrative example games provided.
